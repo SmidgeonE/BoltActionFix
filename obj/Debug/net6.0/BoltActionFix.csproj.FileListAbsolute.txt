@@ -1,0 +1,14 @@
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\bin\Debug\net6.0\BoltActionFix.deps.json
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\bin\Debug\net6.0\BoltActionFix.dll
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\bin\Debug\net6.0\BoltActionFix.pdb
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\bin\Debug\net6.0\Assembly-CSharp_publicized.dll
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.csproj.AssemblyReference.cache
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.AssemblyInfoInputs.cache
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.AssemblyInfo.cs
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.csproj.CoreCompileInputs.cache
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.csproj.CopyComplete
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.dll
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\refint\BoltActionFix.dll
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\BoltActionFix.pdb
+C:\Users\Finlay\RiderProjects\BoltActionFix\BoltActionFix\obj\Debug\net6.0\ref\BoltActionFix.dll

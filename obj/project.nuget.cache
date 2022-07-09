@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SqPq38+h19UBjO6OKPxP0urhggPPZN/oW1anI5NMRTdCL8GnYykUDb5hdsQrx0PN322YCRohtn1QkvigZduzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Finlay\\RiderProjects\\BoltActionFix\\BoltActionFix\\BoltActionFix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Finlay\\.nuget\\packages\\bepinex.baselib\\5.4.16\\bepinex.baselib.5.4.16.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\bepinex.core\\5.4.16\\bepinex.core.5.4.16.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\h3vr.gamelibs\\0.100.7-r.0\\h3vr.gamelibs.0.100.7-r.0.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\harmonyx\\2.10.0\\harmonyx.2.10.0.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net35\\1.0.2\\microsoft.netframework.referenceassemblies.net35.1.0.2.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\mono.cecil\\0.10.4\\mono.cecil.0.10.4.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\monomod.runtimedetour\\22.3.23.4\\monomod.runtimedetour.22.3.23.4.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\monomod.utils\\22.3.23.4\\monomod.utils.22.3.23.4.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\sodalite\\1.3.0\\sodalite.1.3.0.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\sodalite.patcher\\1.1.1\\sodalite.patcher.1.1.1.nupkg.sha512",
+    "C:\\Users\\Finlay\\.nuget\\packages\\unityengine\\5.6.1\\unityengine.5.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
