@@ -1,4 +1,5 @@
 using BepInEx;
+using HarmonyLib;
 using UnityEngine;
 
 namespace BoltActionFix
@@ -10,6 +11,7 @@ namespace BoltActionFix
         private void Awake()
         {
             Debug.Log("Beep");
+            Harmony.CreateAndPatchAll(typeof(BoltPatch));
         }
     }
 }

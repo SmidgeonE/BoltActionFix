@@ -14,15 +14,13 @@
         "outputPath": "C:\\Users\\Finlay\\RiderProjects\\BoltActionFix\\BoltActionFix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Finlay\\RiderProjects\\BoltActionFix\\BoltActionFix\\NuGet.Config",
           "C:\\Users\\Finlay\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net35"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.bepinex.dev/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net35": {

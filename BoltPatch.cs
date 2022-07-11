@@ -3,24 +3,21 @@
     using FistVR;
     using HarmonyLib;
     using UnityEngine;
-    
+
     public class BoltPatch : MonoBehaviour
     {
-        [HarmonyPatch(typeof(FVRPhysicalObject), "Awake")]
+        [HarmonyPatch(typeof(LeverActionFirearm), "UpdateLever")]
         [HarmonyPrefix]
-        public static void Patch()
+        public static void Patch(LeverActionFirearm __instance)
         {
-            Debug.Log("asd");
+            
         }
-
-        private void Update()
+        
+        [HarmonyPatch(typeof(FVRFireArm), "BeginInteraction")]
+        [HarmonyPrefix]
+        public static void Patch5(FVRFireArm __instance)
         {
-            Debug.Log("asdasd");
-        }
-
-        private void Start()
-        {
-            Harmony.CreateAndPatchAll(typeof(BoltPatch));
+            Debug.Log("This is a " + __instance.GetType());
         }
     }
 }
